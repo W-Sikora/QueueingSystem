@@ -20,7 +20,7 @@ def set_priority(amount):
 
 
 def print_values_by_index(index, array):
-    return 'no', index + 1, '\ttime:', array[index][0], 'priority:', array[index][1]
+    print('no', array[index][0], '\ttime:', array[index][1], 'priority:', array[index][2])
 
 
 def main():
@@ -28,10 +28,13 @@ def main():
     priority = set_priority(max_no_of_notification)
     array = []
     for i in range(max_no_of_notification):
-        array.append([lead_time[i], priority[i]])
+        array.append([i + 1, lead_time[i], priority[i]])
     array = np.array(array)
-    for i in range(max_no_of_notification):
-        print(print_values_by_index(i, array))
+
+    print('\nExample:')
+    print_values_by_index(0, array)
+
+    print(array)
 
 
 if __name__ == "__main__":
