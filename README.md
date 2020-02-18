@@ -13,5 +13,5 @@ coming soon
 
 ## Authors
 - [Izabela Kucharek](https://github.com/ikucharek "Izabela Kucharek")
-- [Michał Lisowski]("lack of GitHub")
+- Michał Lisowski
 - [Wojciech Sikora](https://github.com/W-Sikora "Izabela Kucharek")
