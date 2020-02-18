@@ -12,6 +12,6 @@ Clone this git repository.
 coming soon
 
 ## Authors
--[Izabela Kucharek](https://github.com/ikucharek "Izabela Kucharek")
--[Michał Lisowski]
--[Wojciech Sikora](https://github.com/W-Sikora "Izabela Kucharek")
+- [Izabela Kucharek](https://github.com/ikucharek "Izabela Kucharek")
+- [Michał Lisowski]
+- [Wojciech Sikora](https://github.com/W-Sikora "Izabela Kucharek")
